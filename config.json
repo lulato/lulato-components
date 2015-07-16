@@ -1,1 +1,6 @@
-{"port":8857}
+{
+    "aws-access-key": "AKIAIUFKMHRWVFGNDK5A",
+    "aws-bucket-name": "lulato-components",
+    "aws-bucket-website": "lulato-components.s3-website-us-east-1.amazonaws.com",
+    "port": 8857
+}
